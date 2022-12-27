@@ -1,0 +1,5 @@
+#basston_setup
+
+bastion_ami: ami-0849a313b038afda0
+region: us-west-2
+MYIP:  49.37.169.204/32
